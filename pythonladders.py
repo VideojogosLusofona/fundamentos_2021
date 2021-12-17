@@ -1,5 +1,8 @@
 import random
 
+# Codigo criado durante a aula de Fundamentos de Programação do dia 16/12/2021
+# O CODIGO NÃO ESTÁ COMPLETO E PODERÁ TER BUGS! :)
+
 def playerTag(pID):
     alfa = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     return alfa[pID]
